@@ -1,4 +1,4 @@
-package com.example.appointment_app;
+package io.github.samdsk.appointment_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
